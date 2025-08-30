@@ -26,4 +26,5 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar o resultado do projeto [aqui](#).
+Você pode acessar o resultado do projeto no [Vercel](https://alura-midi-eight-phi.vercel.app/).
+
